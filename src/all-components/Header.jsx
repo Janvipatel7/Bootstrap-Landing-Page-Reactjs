@@ -13,7 +13,7 @@ const Header = () => {
                 <div className="container">
                     <div className='d-flex justify-content-between align-items-center'>
                         <div>
-                            <img src="public/Image/logo.png" alt="Logo" />
+                            <img src="/Image/logo.png" alt="Logo" />
                         </div>
                         <div>
                             <ul className='d-flex align-items-center list-unstyled gap-4 mt-3 d-none d-lg-flex header-nav'>
@@ -39,7 +39,7 @@ const Header = () => {
             <Offcanvas show={show} onHide={handleClose}>
                 <Offcanvas.Header closeButton>
                     <Offcanvas.Title>
-                        <img src="public/Image/logo.png" alt="Logo" />
+                        <img src="/Image/logo.png" alt="Logo" />
                     </Offcanvas.Title>
                 </Offcanvas.Header>
                 <Offcanvas.Body>

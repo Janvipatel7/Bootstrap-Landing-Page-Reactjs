@@ -7,7 +7,7 @@ import ImagePart from './ImagePart';
 
 
 const AccordionScreen = () => {
-     let image = "/public/image/accordion.jpg"
+     let image = "/image/accordion.jpg"
     let title = "Apps";
     let highlight = "FAQ";
     let des = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut."

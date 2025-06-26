@@ -2,7 +2,7 @@ import ImageContent from './ImageContent';
 import ImagePart from './ImagePart';
 
 const MainSection = () => {
-  const image = "/public/image/hero-1.png";
+  const image = "/image/hero-1.png";
   const heading = `Sandy is best for Marketing your Apps.`;
   const content =
     "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's typesetting industry standard dummy text ever since the typesetting.";
