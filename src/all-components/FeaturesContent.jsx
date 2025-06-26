@@ -3,7 +3,7 @@ import FeaturesInfo from './FeaturesInfo'
 import ImagePart from './ImagePart'
 
 const FeaturesContent = () => {
-    let image = "/image/feature-image.png"
+    let image = "/Image/feature-image.png"
   return (
     <>
     <div className="container">
