@@ -1,11 +1,10 @@
-
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './components/Header';
 import MainSection from './components/MainSection';
 import Features from './components/Features';
 import Intro from './components/Intro';
 import Works from './components/Works';
-import Screenshots from './components/Screenshots.JSX';
+import Screenshots from './components/Screenshots';
 import SpecialFeatures from './components/SpecialFeatures';
 import AccordionScreen from './components/AccordionScreen';
 import FactsSection from './components/FactsSection';

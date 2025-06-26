@@ -1,7 +1,4 @@
-
-
 const SpecialFeatures = () => {
-
     return (
         <>
             <section className="relative special-feature-image pt-100 pb-100">
