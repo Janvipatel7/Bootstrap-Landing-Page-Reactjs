@@ -286,6 +286,7 @@ ul li {
     top: 45px;
     right: 50%;
     z-index: 99;
+    visibility: visible;
 }
 
 .afterLine::after {
@@ -297,6 +298,7 @@ ul li {
     top: 45px;
     right: 1px;
     z-index: 99;
+    visibility: visible;
 }
 
 .icon-box {
@@ -868,5 +870,18 @@ ul li {
     .fs-50 {
         font-size: 36px;
     }
+    .afterLine::before {
+        visibility: hidden;
+    }
+     .afterLine::after{
+        visibility: hidden;
+     }
 
 }
+
+@media (max-width : 400px) {
+    .ps-146 {
+    padding-left: 112px;
+    }
+}
+

@@ -12,7 +12,7 @@ const Works = () => {
                         <AllSectionHeadline title={title} highlight={highlight} des={des} />
                     </div>
                     <div className='row ps-146'>
-                        <div className="col-3 p-0">
+                        <div className="col-lg-3 col-md-5 col-sm-12 p-0">
                             <div className='afterLine'>
                                 <div className='how-works  text-start '>
                                     <div className='icon-box '>
@@ -22,7 +22,7 @@ const Works = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-3 p-0">
+                        <div className="col-lg-3 col-md-5 col-sm-12 p-0">
                             <div className='afterLine'>
                                 <div className='how-works '>
                                     <div className='icon-box'>
@@ -32,7 +32,7 @@ const Works = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-3 p-0">
+                        <div className="col-lg-3 col-md-5 col-sm-12 p-0">
                             <div className='afterLine'>
                                 <div className='how-works afterLine '>
                                     <div className='icon-box'>
@@ -42,7 +42,7 @@ const Works = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-3 p-0">
+                        <div className="col-lg-3 col-md-5 col-sm-12 p-0">
                             <div className=''>
                                 <div className='how-works '>
                                     <div className='icon-box'>
